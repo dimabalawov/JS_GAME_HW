@@ -1,0 +1,18 @@
+.finish-btn{
+    width: fit-content;
+    font-size: 0.8em;
+    padding-inline: 2em;
+    border-radius: 1em;
+}
+.card{
+    border: none;
+    width:12em;
+    height: 13em;
+    cursor: pointer;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(free-icon-playing-card-12427692.png);
+}
+.card img{
+    width: 100%;
+}
